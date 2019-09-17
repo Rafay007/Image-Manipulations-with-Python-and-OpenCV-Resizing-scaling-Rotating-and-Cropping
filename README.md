@@ -1,0 +1,1 @@
+# Image-Manipulations-with-Python-and-OpenCV-Resizing-scaling-Rotating-and-Cropping
